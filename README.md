@@ -1,5 +1,4 @@
 # spring5webapp
-Basic Spring App
 
 Basic App that displays Books, Authors and Publishers
 
